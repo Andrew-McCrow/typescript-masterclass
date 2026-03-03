@@ -3,8 +3,11 @@
 // basic type annotations
 //------------------------
 let age = 300000;
-let firstName = "Mario";
+let firstName = "Hello Mario";
 let isFictional;
+console.log(age);
+console.log(firstName);
+console.log(isFictional);
 // age = 'hello'
 age = 31;
 // firstName = 100

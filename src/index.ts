@@ -3,9 +3,12 @@
 //------------------------
 
 let age: number = 300000;
-let firstName: string = "Mario";
+let firstName: string = "Hello Mario";
 let isFictional: boolean;
 
+console.log(age);
+console.log(firstName);
+console.log(isFictional);
 // age = 'hello'
 age = 31;
 
