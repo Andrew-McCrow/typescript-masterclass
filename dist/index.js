@@ -5,9 +5,9 @@
 let someId;
 someId = 1;
 someId = '2';
-let email = undefined;
+let email = null;
 email = 'mario@netninja.dev';
-email = undefined;
+email = null;
 let anotherId;
 // anotherId = undefined
 anotherId = '1';
